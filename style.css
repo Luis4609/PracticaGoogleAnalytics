@@ -156,6 +156,7 @@ img {
   color: #ffffff;
   border-color: #ffffff;
 }
+/*Cambios necesario para hacer la practica 1 responsive para la practica 3*/
 @media only screen and (max-width: 1200px) {
   img {
     width: 200px;
@@ -163,6 +164,7 @@ img {
   .imagen {
     padding-left: 50px;
   }
+ 
 }
 @media only screen and (max-width: 768px) {
   img {
@@ -170,6 +172,9 @@ img {
   }
   .imagen {
     padding-left: 50px;
+  }
+  .button{
+    width: 40%;
   }
 }
 @media only screen and (max-width: 600px) {
