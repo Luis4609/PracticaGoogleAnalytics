@@ -179,4 +179,7 @@ img {
   .imagen {
     padding-left: 50px;
   }
+  .button{
+    width: 40%;
+  }
 }
